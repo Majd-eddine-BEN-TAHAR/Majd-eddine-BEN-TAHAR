@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on YouTube
+- 🔭 I’m a self-employed
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on ReactJS
 - 🤔 I’m looking for help with NodeJS
