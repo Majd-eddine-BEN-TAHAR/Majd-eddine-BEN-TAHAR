@@ -5,7 +5,7 @@
 I'm a front-end web developer:
 
 - 🔭 I’m based in Ariana,TN
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on ReactJS
 - 🤔 I'm in the process of expanding my skills in React and NodeJS but open to learning any tools!
 - 💬 Ask me about Anything 
