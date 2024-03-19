@@ -9,7 +9,7 @@ I'm a front-end web developer:
 - 👯 I’m looking to collaborate on ReactJS
 - 🤔 I'm in the process of expanding my skills in React and NodeJS but open to learning any tools!
 - 💬 Ask me about Anything 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/majd-eddine-ben-tahar-750696173/)
+- 📫 How to reach me: majdeddinebentahar@gmail.com
 
 ## My GitHub Stats
 <div><a href="http://www.github.com/Majd-eddine-BEN-TAHAR"><img src="https://github-readme-stats.vercel.app/api?username=Majd-eddine-BEN-TAHAR&show_icons=true&hide=&count_private=true&title_color=6E6F71&text_color=6E6F71&icon_color=F3C766&bg_color=ffffff&hide_border=false&show_icons=true" alt="Majdeddine BEN TAHAR's GitHub stats" /></a></div>
@@ -26,8 +26,6 @@ I'm a front-end web developer:
 ## Connect with me!
 <p align="left">
 <a href="https://www.linkedin.com/in/majd-eddine-ben-tahar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://majd-coding.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-<a href="https://twitter.com/TaharMajd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
   
