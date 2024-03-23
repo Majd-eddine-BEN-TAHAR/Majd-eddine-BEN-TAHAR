@@ -1,6 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="1Q2nb6Ejue2fnsb6yHltjHkCSzeo03p_WSVpU70xYuc" />
-</head>
 ### Hi there my name is MAJD👋
 [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 
